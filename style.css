@@ -1,0 +1,9 @@
+.bodybg{
+    background-image:url("https://i.postimg.cc/63cjmfvH/bg1.jpg");
+    background-position:center;
+    background-size:cover;
+}
+#my_canvas{
+    background-color: aquamarine;
+    border-style:ridge;
+}
